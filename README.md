@@ -12,8 +12,9 @@ Matthew's daily coffee setup
 
 ### Pour Over
 
-- Pour Over Dripper: Hario V60 Ceramic Coffee Dripper, Size 02 [Recommend]
+- Pour Over Dripper: Hario V60 Ceramic Coffee Dripper 02 [Recommend]
 - Carafe: Hario V60 Glass Range Coffee Server, 600ml [Recommend]
+- Filter Papers: V60 Paper Filter for 02 Size Dripper, White
 
 ## Coffee Recipes
 
