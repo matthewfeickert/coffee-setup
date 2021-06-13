@@ -7,7 +7,7 @@ Matthew's daily coffee setup
 ### General
 
 - Grinder: Krups Adjustable Burr Grinder GX500050
-- Kettle: Fellow Stagg EKG+ Pour Over Kettle [Recommend]
+- Kettle: Fellow Stagg EKG+ Kettle [Recommend]
 - Scale: Ozeri ZK14-AB Pronto Digital Multifunction Kitchen and Food Scale
 
 ### Pour Over
