@@ -23,3 +23,5 @@ Matthew's daily coffee setup
 - 19 grams of coffee with 300 grams of water at 98 Celsius
 
 ### French Press
+
+- James Hoffmann's [The Ultimate French Press Technique](https://youtu.be/st571DYYTR8)
